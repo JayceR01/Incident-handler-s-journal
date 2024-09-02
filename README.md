@@ -67,5 +67,5 @@ This was my first time using Wireshark so it was very interesting. I am looking 
 
 Reflections/Notes: All of them were a bit challenging because I am new to the field and having to use them. Mainly when writing about the tools used I was confused. I would say my understanding of incident response has changed during the course but I still have so much to learn. This just taught the basics and sometimes would explain things without showing a visual representation so knowing what to look for was difficult at times. I liked using Chronicle the most out of the tools we used. It was pretty easy to understand and read while also providing a lot of information.
 
-# Here is a pdf whihc shows a cleaned up version of what you see below
+# Here is a pdf which shows a cleaned up version of what you see below
 [Incident handlers journal portfolio project.pdf](https://github.com/JayceR01/Incident-handler-s-journal/files/14378960/Incident.handlers.journal.portfolio.project.pdf)
